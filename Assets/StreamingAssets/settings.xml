@@ -1,0 +1,48 @@
+<settings>
+  <materials>
+    <material name="Plastic (Instance)">
+      <hue min="0.0" max="1.0"/>
+      <saturation min="0.0" max="1.0"/>
+      <lightness min="0.2" max="1.0"/>
+    </material>
+    <material name="Carpet (Instance)">
+      <hue min="0.0" max="1.0"/>
+      <saturation min="0.0" max="1.0"/>
+      <lightness min="0.2" max="1.0"/>
+    </material>
+    <material name="Metal (Instance)">
+      <hue min="0.0" max="1.0"/>
+      <saturation min="0.0" max="1.0"/>
+      <lightness min="0.2" max="1.0"/>
+    </material>
+    <material name="Wood (Instance)">
+      <hue min="0.07" max="0.167"/>
+      <saturation min="0.0" max="1.0"/>
+      <lightness min="0.2" max="1.0"/>
+    </material>
+    <material name="Paint (Instance)">
+      <hue min="0.0" max="1.0"/>
+      <saturation min="0.0" max="1.0"/>
+      <lightness min="0.2" max="1.0"/>
+    </material>
+  </materials>
+  <segments>
+    <segment name="bg" id="0"/>
+    <segment name="robotworld" id="1"/>
+    <segment name="door" id="2"/>
+    <segment name="frame" id="3"/>
+    <segment name="wall" id="4"/>
+    <segment name="floor" id="5"/>
+    <segment name="ceiling" id="6"/>
+    <segment name="robotbase" id="7"/>
+    <segment name="robotshoulder" id="8"/>
+    <segment name="robotupperarm" id="9"/>
+    <segment name="robotforearm" id="10"/>
+    <segment name="robotwrist" id="11"/>
+    <segment name="robotfingerlimb" id="12"/>
+    <segment name="robotfingertip" id="13"/>
+    <segment name="leverknob" id="14"/>
+    <segment name="roundknob" id="15"/>
+    <segment name="pullknob" id="16"/>
+  </segments>
+</settings>
